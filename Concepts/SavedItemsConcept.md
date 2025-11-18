@@ -8,10 +8,11 @@
 
 **state**
 
-   	a set of UserRecords with ...
+   	a set of UserRecords with
          	a User
          	a set of SavedItems
-	A set of SavedItems with …
+
+	A set of SavedItems with
 		a Item
 		a set of Tag strings
 	
