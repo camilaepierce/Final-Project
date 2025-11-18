@@ -4,3 +4,4 @@ Christina Beggs, Megan Diulus, Kailey Epstein, Camila Pierce,
 
 - [Team Contract](./DesignDocs//team_contract.md)
 - [Problem Framing](./DesignDocs//ProblemFraming.md)
+- [Functional Design](./DesignDocs/FunctionDesign.md)
