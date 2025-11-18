@@ -1,7 +1,7 @@
 # Functional Design
 
 ## Problem Framing
-Our only update from our [previous problem framing](./ProblemFraming.md) is that out [new problem framing](./UpdatedProblemFraming.md) removes the SSO from potential features to keep the project within scope and avoid overly complex features. 
+Our only update from our [previous problem framing](./ProblemFraming.md) is that out [new problem framing](./UpdatedProblemFraming.md) removes the SSO from potential features to keep the project within scope and avoid overly complex features.
 
 ## Concept Design
 
@@ -17,7 +17,7 @@ Navigate to the following concepts:
 
 ## User Journey
 
-Shannon is an MIT student who is planning to stay on campus over the summer to UROP. She knows that she wants to stay close to campus so her commute is easy, but also wants to be able to easily travel around the city to explore Boston during the summer. There are several places available to her, and remembers seeing some students looking for roommates on dormspam but can’t seem to find those emails again. 
+Shannon is an MIT student who is planning to stay on campus over the summer to UROP. She knows that she wants to stay close to campus so her commute is easy, but also wants to be able to easily travel around the city to explore Boston during the summer. There are several places available to her, and remembers seeing some students looking for roommates on dormspam but can’t seem to find those emails again.
 
 To get a better sense of her options, Shannon pulls up Dam Good Housing. She logs in with her MIT email, and updates her profile by putting in her place of work, Building 46. First going to the search results, she finds the number of locations a tad overwhelming. To help her think about the results more clearly, she filters the nearby results by her preferences: distance from work, proximity to a BlueBike station, and nearby food. A handful of results pop up this time, including fraternity housing on Beacon street, a summer sublet of 100 Mem, and staying in MacGregor. From the map of search results, she can see that there is a simple route to her work from 100 Mem and Macgregor, and a nice stroll across the bridge from the Beacon street housing.
 
@@ -30,10 +30,9 @@ A few days later, Shannon comes back, and easily resumes her search through the 
 <img src = "./imgs/Widgets.png" width = 400px/>
 
 ## Visual Desgin Study
-<img src = "./imgs/VisualDesignStudy1.png" width = 400px/>
-<img src = "./imgs/VisualDesignStudy2.png" width = 400px/>
+<img src = "./imgs/VisualDesignStudy1.png" width = 800px/>
+<img src = "./imgs/VisualDesignStudy2.png" width = 800px/>
 
 ## Design Summary
 
 ## Development Plan
-
